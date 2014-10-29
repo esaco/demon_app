@@ -1,0 +1,9 @@
+[
+{"action":"mangia gatto", "done": false},
+{"action":"uccidi serpente", "done": false},
+{"action":"compra giornale", "done": false},
+{"action":"vendi vecchio", "done": false},
+{"action":"elabora pensiero", "done": false},
+{"action":"andiamo a casa", "done": false},
+{"action":"bevi birra", "done": false}
+]
